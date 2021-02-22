@@ -1,0 +1,29 @@
+{
+  "name": "ROOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".solcover.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/solidity-mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/solidity-mock/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/solidity-mock#readme",
+  "devDependencies": {
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@truffle/debug-utils": "^5.0.10",
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "truffle": "^5.1.67"
+  }
+}
